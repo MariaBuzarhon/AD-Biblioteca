@@ -1,0 +1,14 @@
+com\maria\Tema3\PaginaRegistrarLibroController.class
+com\maria\Tema3\PaginaResgistrarUsuarioController.class
+com\maria\Tema3\PaginaLibrosParaPrestamoController.class
+com\maria\Tema3\PaginaPrestamosDelUsuarioController.class
+com\maria\Tema3\PrestamoDAO.class
+com\maria\Tema3\PantallaListaUsuariosController.class
+com\maria\Tema3\PaginaRegistrarEjemplaresController.class
+com\maria\Tema3\paginaListaLibrosAdminController.class
+com\maria\Tema3\MenuPrincipalAdminController.class
+com\maria\Tema3\DatosUsuarioController.class
+com\maria\Tema3\MenuUsuarioNormalController.class
+com\maria\Tema3\menuListaPrestamosController.class
+com\maria\Tema3\EjemplarDAO.class
+com\maria\Tema3\LibroDAO.class
